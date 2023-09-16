@@ -1,0 +1,20 @@
+{
+  "name": "0916_atividade05",
+  "version": "1.0.0",
+  "description": "1. Crie uma função chamada calcularPrecoComDesconto, essa função vai receber 3 parâmetros - (valor do produto, quantidade de produto e uma função callback que aplica o desconto e devolve o valor atualizado) e implementar ao menos uma chamada para a função calcularPrecoComDesconto",
+  "main": "exercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictoriaMiki/0916_Atividade05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictoriaMiki/0916_Atividade05/issues"
+  },
+  "homepage": "https://github.com/VictoriaMiki/0916_Atividade05#readme"
+}
