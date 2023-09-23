@@ -12,3 +12,13 @@ arrayPrint.forEach((NULL,i)=> {
         }
     })
 })
+
+// Resolução do Professor
+
+arrayPrint.forEach(lista => { // Ele joga cada linha (item) da matriz dentro da variável lista
+    lista.forEach(numero => {
+        if(numero > 10) {
+            console.log(numero)
+        }
+    })
+})
